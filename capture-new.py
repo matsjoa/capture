@@ -1,7 +1,5 @@
-from sys import argv
 import cv2
 
-script, videofile = argv
 
 videocap = cv2.VideoCapture("Filter-test.mp4")
 
